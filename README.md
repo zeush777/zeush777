@@ -87,7 +87,7 @@ My experience spans:
 
 * 🎓 NZQA Level 4 – Full-stack foundations
 * 🚀 Mission Ready Level 5 – Advanced full-stack projects
-* 🔜 Level 6 – Upcoming
+* 🎉 Mission Ready Level 6 - Collaborated Work Experience with CAS (Johannes Dimyadi)
 
 My journey hasn’t been strictly linear — I navigated challenges along the way and continued building, learning, and improving.
 This reflects my **resilience, adaptability, and commitment to growth as a developer**.
